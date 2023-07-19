@@ -6,7 +6,7 @@
 git add .
 echo "enter message : " 
 
-# read stores the user input into 
+# 'read' stores the user input into 
 # the variable "message"
 
 read message
